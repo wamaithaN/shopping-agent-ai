@@ -41,7 +41,7 @@ shopping-agent-ai/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shopping-agent-ai.git
+git clone https://github.com/wamaithaN/shopping-agent-ai.git
 ```
 
 Navigate to the project folder:
