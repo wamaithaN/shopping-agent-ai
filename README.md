@@ -61,6 +61,11 @@ Run the application:
 ```bash
 streamlit run app.py
 ```
+```
+screenshots/
+```
+
+<img width="1125" height="603" alt="image" src="https://github.com/user-attachments/assets/57832e52-4a2c-4784-9f5b-dd1006e1fdbd" />
 
 ## 🎯 Example Use Cases
 
